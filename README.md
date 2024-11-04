@@ -4,8 +4,6 @@
 
 🌐 **[Live Project on Behance - NourishTN: Connecting Hearts through Food Sharing](https://www.behance.net/gallery/204405079/NourishTN-Connecting-Hearts-through-Food-Sharing)**
 
-<a href="https://www.behance.net/gallery/204405079/NourishTN-Connecting-Hearts-through-Food-Sharing" target="_blank">🌐 Live Project on Behance - NourishTN: Connecting Hearts through Food Sharing</a>
-
 ## ✨ Key Features
 - 🥡 **Food Redistribution**: Connects venues with excess food to organizations in need.
 - 📱 **App-Driven Platform**: Simplifies the donation process through a user-friendly app, designed using Figma.
